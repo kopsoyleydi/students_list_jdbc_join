@@ -1,0 +1,13 @@
+#btn{
+    margin: 0 auto;
+    background-color: navy;
+
+}
+#btn a{
+    color: white;
+    text-decoration: none;
+}
+.navbar{
+    background-color: navy;
+    color: white;
+}
